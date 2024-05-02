@@ -3,7 +3,7 @@ This repository consists of a tutorial for applying logistic regression to get b
 ## Brief
 Many predictions in the world are binary, like whether someone has a particular disease, whether someone will purchase a product, fraud detection like spam mail, etc. This project aims to predict the purchase of a product given UserID, age, gender, and Estimated salary of people as the features by applying logistic regression from scratch.
 ## Contents
-- `tutorial-for-logistic-regression_binary_classification.ipynb`: Contains Jupyter notebook demonstrating logistic regression for binary classification.
+- `tutorial-for-logistic-regression-binary-classification.ipynb`: Contains Jupyter notebook demonstrating logistic regression for binary classification.
 - `input/`: This directory contains the dataset `Social_Network_Ads.csv`.
 - `README.md`: This file provides an overview of the repository and its contents which is currently being read.
 ## Dependencies

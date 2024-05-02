@@ -1,5 +1,5 @@
 # Logistic Regression for Binary Classification
-This repository consists of a tutorial for applying logistic regression for binary classification and the dataset used for demonstration purposes. It is a course project for the DA 623 Computing with Signals course, IIT Guwahati.
+This repository consists of a tutorial for applying logistic regression to get binary classification along with the dataset used for demonstration purposes. It is a project for the DA 623 Computing with Signals course, IIT Guwahati.
 ## Brief
 Many predictions in the world are binary, like whether someone has a particular disease, whether someone will purchase a product, fraud detection like spam mail, etc. This project aims to predict the purchase of a product given UserID, age, gender, and Estimated salary of people as the features by applying logistic regression from scratch.
 ## Contents
